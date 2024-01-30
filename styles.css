@@ -2,11 +2,11 @@
   box-sizing: border-box;
 }
 h1 {
-  color: rgb(227, 227, 243);
+  color: rgb(190, 190, 240);
 }
 body {
-  background-color: orangered;
+  background-color: rgb(240, 98, 47);
 }
 p {
-  color: pink;
+  color: rgb(235, 163, 175);
 }

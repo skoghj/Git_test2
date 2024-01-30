@@ -10,3 +10,6 @@ body {
 p {
   color: rgb(235, 163, 175);
 }
+header {
+  background-color: aquamarine;
+}

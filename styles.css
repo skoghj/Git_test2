@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  color: rgb(227, 227, 243);
+}
+body {
+  background-color: orangered;
+}
